@@ -1,0 +1,24 @@
+title:              El mundo que nos rodea
+email:              lucas68747@gmail.com
+description:        De economía, proyectos y otras cosas.
+author:             Lucas68747
+baseurl:            "/startbootstrap-clean-blog-jekyll"
+url:                "https://blackrockdigital.github.io"
+
+# Social Profiles
+twitter_username:   
+github_username: https://github.com/Lucas68747
+facebook_username: https://www.facebook.com/lucasemanuel68747
+linkedin_username: https://www.linkedin.com/in/lucas-emanuel-santoro-b62455195/
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
