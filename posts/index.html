@@ -21,7 +21,7 @@ background: '/img/bg-post.jpg'
     {% else %}
     {{ site.author }}
     {% endif %}
-    on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
+    en {{ post.date | date: '%m/%d/%Y' }} &middot; {% include read_time.html content=post.content %}
   </p>
 </article>
 
@@ -36,11 +36,11 @@ background: '/img/bg-post.jpg'
 
   {% if paginator.previous_page %}
   <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
-    Newer<span class="d-none d-md-inline"> Artículos</span></a>
+    Recientes<span class="d-none d-md-inline"> Artículos</span></a>
   {% endif %}
 
   {% if paginator.next_page %}
-  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Posts</span> &rarr;</a>
+  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Antiguos<span class="d-none d-md-inline"> Artículos</span> &rarr;</a>
   {% endif %}
 
 </div>
