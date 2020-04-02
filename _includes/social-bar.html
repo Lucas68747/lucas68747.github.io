@@ -1,0 +1,15 @@
+    <head>
+    <meta charset="UTF-8">
+        <link rel="stylesheet" href="social-bar/font.css">
+        <link rel="stylesheet" href="social-bar/main.css">
+    <title>Social-bar</title>
+    </head>
+    <body>
+        <div class="social-bar">
+            <a href="https://www.facebook.com/lucasemanuel68747" class="icon icon-facebook" target="_blank"></a>{% if site.facebook_username %}
+            {% endif %}<a href="https://www.instagram.com/lucas68.747/?hl=es-la" class="icon icon-instagram" target="_blank"></a>{% if site.instagram_username %}
+            {% endif %}<a href="https://github.com/Lucas68747" class="icon icon-github" target="_blank"></a>{% if site.github_username %}
+            {% endif %}<a href="https://www.linkedin.com/in/lucas-emanuel-santoro-b62455195/" class="icon icon-linkedin" target="_blank"></a>{% if site.linkedin_username %}
+        </div>
+    </body>
+    {% endif %}
