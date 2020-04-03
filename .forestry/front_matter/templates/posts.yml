@@ -12,12 +12,8 @@ fields:
   config:
     required: false
   label: Titulo
-- name: article
-  type: textarea
-  default: ''
+- name: image
+  type: file
   config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Artículo
+    maxSize: 250
+  label: Imágenes
