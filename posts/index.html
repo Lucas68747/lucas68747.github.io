@@ -22,7 +22,7 @@ background: '/img/bg-post.jpg'
     {% else %}
     {{ site.author }}
     {% endif %}
-    el {{ post.date | date: '%m/%d/%Y' }} &middot; {% include read_time.html content=post.content %}
+    el {{ post.date | date: '%d/%m/%Y' }} &middot; {% include read_time.html content=post.content %}
   </p>
 </article>
 
