@@ -10,7 +10,7 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-  new_doc_ext: ''
+  new_doc_ext: '20200401220635'
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
