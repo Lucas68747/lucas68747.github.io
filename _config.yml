@@ -1,15 +1,15 @@
 title:              El mundo que nos rodea
 email:              lucas68747@gmail.com
-description:        De economía, proyectos y otras cosas.
+description:        De economía, proyectos y otras historias.
 author:             Lucas68747
 baseurl:            "/el-mundo-que-nos-rodea"
 url:                "https://lucas68747.github.io/"
 
 # Social Profiles
 twitter_username:   
-github_username: https://github.com/Lucas68747
-facebook_username: https://www.facebook.com/lucasemanuel68747
-linkedin_username: https://www.linkedin.com/in/lucas-emanuel-santoro-b62455195/
+github_username: 
+facebook_username: 
+linkedin_username: 
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
