@@ -11,8 +11,8 @@ sections:
   label: Posts
   create: all
   new_doc_ext: '20200401220635'
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: img
+public_path: "/img/posts"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
