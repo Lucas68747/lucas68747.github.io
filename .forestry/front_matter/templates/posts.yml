@@ -1,4 +1,14 @@
 ---
 label: Posts
 hide_body: false
-fields: []
+fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Diseño
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titulo
