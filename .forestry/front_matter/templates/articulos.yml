@@ -9,8 +9,8 @@ fields:
   name: title
   label: title
 - type: text
-  name: subtitle
-  label: subtitle
+  name: description
+  label: description
 - type: datetime
   name: date
   label: date
@@ -19,5 +19,3 @@ fields:
   config:
     required: false
   label: background
-pages:
-- _posts/por-favor-esta-si.20200404191335
