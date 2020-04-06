@@ -8,11 +8,6 @@ fields:
 - type: text
   name: title
   label: title
-- name: "/permalink/"
-  type: text
-  config:
-    required: false
-  label: Link Permanente
 - type: datetime
   name: date
   label: date
