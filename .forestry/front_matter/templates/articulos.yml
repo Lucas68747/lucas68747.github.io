@@ -12,9 +12,9 @@ fields:
   name: date
   label: date
 - name: background
-  type: file
+  type: text
   config:
-    maxSize: 250
+    required: false
   label: background
 pages:
 - _posts/la-solución-al-covid-19-en-argentina.md
