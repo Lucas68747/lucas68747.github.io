@@ -19,3 +19,5 @@ fields:
   config:
     required: false
   label: background
+pages:
+- _posts/necesitarpía-que-salgas-bien-por-favor.md
