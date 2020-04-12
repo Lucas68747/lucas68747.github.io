@@ -33,4 +33,12 @@ Lo siguiente es lo que vas a necesitar:
 
 Para la preparación vamos a empezar con el relleno, lo primero es preparar una olla con agua a hervir para nuestro pollo. Una vez hervido, este va a ser procesado por lo tanto se puede usar cualquier parte del mismo y después separar la carne de lo que no sirve.
 
-En este caso se usaron las pechugas del pollo porque era grande, casi 1 kilogramo y en la olla junto al pollo, hay que hervir también 3 huevos. Una vez este todo listo, se deben  pelar los huevos y cortar el pollo en pedazos no muy grandes para proceder a procesar todo
+En este caso se usaron las pechugas del pollo porque era grande, casi 1 kilogramo y en la olla junto al pollo, hay que hervir también 3 huevos. Una vez este todo listo, se deben  pelar los huevos y cortar el pollo en pedazos no muy grandes para proceder a procesar todo.
+
+En este punto ya se puede agregar uno de sus condimentos principales junto a la sal, el Chimichurri. Cantidad a gusto.
+
+Teniendo todo bien mezclado y y procesado en un bowl, vamos a agregar la cebolla de verdeo, esta también va en gusto pero recomiendo que por lo menos sean unos 600 gramos. 
+
+Yo la voy a sacar de la huerta de mis viejos.
+
+![](SAM_0017.JPG)
