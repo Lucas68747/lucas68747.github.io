@@ -28,3 +28,9 @@ Lo siguiente es lo que vas a necesitar:
 * 1 Pote grande de queso crema grande.
 * Algún queso de preferencia rallado para el relleno (opcional).
 * Harina 0000 ceros (600 gr. aprox).
+
+##### Preparación
+
+Para la preparación vamos a empezar con el relleno, lo primero es preparar una olla con agua a hervir para nuestro pollo. Una vez hervido, este va a ser procesado por lo tanto se puede usar cualquier parte del mismo y después separar la carne de lo que no sirve.
+
+En este caso se usaron las pechugas del pollo porque era grande, casi 1 kilogramo y en la olla junto al pollo, hay que hervir también 3 huevos. Una vez este todo listo, se deben  pelar los huevos y cortar el pollo en pedazos no muy grandes para proceder a procesar todo
