@@ -41,4 +41,4 @@ Teniendo todo bien mezclado y y procesado en un bowl, vamos a agregar la cebolla
 
 Yo la voy a sacar de la huerta de mis viejos.
 
-![](/el-mundo-que-nos-rodea/media/SAM_0017.JPG)
+![](/media/SAM_0017.JPG)
