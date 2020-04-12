@@ -15,4 +15,16 @@ background: "/img/posts/SAM_0031.JPG"
 
 A lo largo del tiempo se prepararon de muchas maneras de **jamón y muzzarella, carne y verdura, calabaza, estilo caprese.** No obstante el más clásico en casa es el de **pollo al verdeo** o es por lo menos el que más disfrutamos.
 
-Y ese es el que voy a mostrar acá
+Y ese es el que voy a mostrar acá.
+
+##### Ingredientes
+
+Lo siguiente es lo que vas a necesitar:
+
+* Cebolla de verdeo (500 gr. o más).
+* Pollo (1 kg aproximadamente, en este caso pechugas).
+* 4 huevos.
+* Chimichurri y sal.
+* 1 Pote grande de queso crema grande.
+* Algún queso de preferencia rallado para el relleno (opcional).
+* Harina 0000 ceros (600 gr. aprox).
