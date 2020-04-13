@@ -7,7 +7,7 @@ background: "/img/posts/SAM_0031.JPG"
 ---
 **Los sorrentinos caseros compiten directamente con el asado de los domingos. En casa ya son toda una tradición, por eso quería asegurarme por escrito de tener la receta guardada y de poder compartirla de esta manera.**
 
-**La gran mayoría podría decir que una madre tiene por defecto un cariño especial y cuidado por excelencia ante la cocina de su familia.** 
+**La gran mayoría podría decir que una madre tiene por defecto un cariño especial y cuidado por excelencia ante la cocina de su familia.**
 
 **Pero como esta es mi página y soy yo quien escribe estas palabras. Digo que la única mejor es mi vieja punto.**
 
@@ -37,8 +37,8 @@ En este caso se usaron las pechugas del pollo porque era grande, casi 1 kilogram
 
 En este punto ya se puede agregar uno de sus condimentos principales junto a la sal, el Chimichurri. Cantidad a gusto.
 
-Teniendo todo bien mezclado y y procesado en un bowl, vamos a agregar la cebolla de verdeo, esta también va en gusto pero recomiendo que por lo menos sean unos 600 gramos. 
+Teniendo todo bien mezclado y y procesado en un bowl, vamos a agregar la cebolla de verdeo, esta también va en gusto pero recomiendo que por lo menos sean unos 600 gramos.
 
 Yo la voy a sacar de la huerta de mis viejos.
 
-![](/img/posts/SAM_0017.JPG)
+![](https://raw.githubusercontent.com/Lucas68747/el-mundo-que-nos-rodea/master/img/posts/SAM_0017.JPG)
