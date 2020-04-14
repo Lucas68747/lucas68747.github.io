@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Los sorrentinos de mi vieja rompen corazones (receta: pollo al verdeo)'
-date: 2020-04-10 14:09:00 -0300
+date: 2020-04-10T17:09:00.000+00:00
 background: "/img/posts/SAM_0031.JPG"
 
 ---
@@ -41,4 +41,4 @@ Teniendo todo bien mezclado y y procesado en un bowl, vamos a agregar la cebolla
 
 Yo la voy a sacar de la huerta de mis viejos.
 
-![](https://raw.githubusercontent.com/Lucas68747/el-mundo-que-nos-rodea/master/img/posts/SAM_0017.JPG)
+![](https://raw.githubusercontent.com/Lucas68747/el-mundo-que-nos-rodea/master/img/posts/cebolla.jpg)
