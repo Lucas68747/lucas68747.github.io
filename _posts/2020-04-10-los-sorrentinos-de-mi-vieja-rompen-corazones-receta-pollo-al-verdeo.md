@@ -2,7 +2,7 @@
 layout: post
 title: 'Los sorrentinos de mi vieja rompen corazones (receta: pollo al verdeo)'
 date: 2020-04-10T17:09:00.000+00:00
-background: "/img/posts/SAM_0031.JPG"
+background: "/img/posts/cabecera-sorrentinos.jpg"
 
 ---
 **Los sorrentinos caseros compiten directamente con el asado de los domingos. En casa ya son toda una tradición, por eso quería asegurarme por escrito de tener la receta guardada y de poder compartirla de esta manera.**
