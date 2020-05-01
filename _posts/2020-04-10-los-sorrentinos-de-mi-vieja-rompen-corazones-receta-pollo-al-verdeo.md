@@ -42,7 +42,5 @@ Teniendo todo bien mezclado y y procesado en un bowl, vamos a agregar la cebolla
 Yo la voy a sacar de la huerta de mis viejos.
 
 <html>
-
 <img src="![planta](https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/cebolla2.jpg)" width=100% height=500px>
-
 </html>
