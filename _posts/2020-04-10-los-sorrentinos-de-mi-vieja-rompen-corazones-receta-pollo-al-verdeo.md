@@ -41,4 +41,4 @@ Teniendo todo bien mezclado y y procesado en un bowl, vamos a agregar la cebolla
 
 Yo la voy a sacar de la huerta de mis viejos.
 
-![](https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/cebollita.jpg)
+<img _src_="img/posts/cebolla2.jpg" _width_="100%" _height_="100%">
