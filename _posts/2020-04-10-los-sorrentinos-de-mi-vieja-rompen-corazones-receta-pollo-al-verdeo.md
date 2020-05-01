@@ -40,6 +40,5 @@ En este punto ya se puede agregar uno de sus condimentos principales junto a la 
 Teniendo todo bien mezclado y y procesado en un bowl, vamos a agregar la cebolla de verdeo, esta también va en gusto pero recomiendo que por lo menos sean unos 600 gramos.
 
 Yo la voy a sacar de la huerta de mis viejos.
-<html>
-<img _src_="img/posts/cebolla2.jpg" _width_="100%" _height_="100%">
-</html>
+
+![](https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/cebolla2.jpg)
