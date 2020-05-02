@@ -43,6 +43,6 @@ Yo la voy a sacar de la huerta de mis viejos.
 
 <html>
 
-<div align="center"><img src="![](https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/cebolla2.jpg)" width="80%" height="auto"  alt="cebolla"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/cebolla2.jpg" width="80%" height="auto"  alt="cebolla"></div>
 
 </html>
