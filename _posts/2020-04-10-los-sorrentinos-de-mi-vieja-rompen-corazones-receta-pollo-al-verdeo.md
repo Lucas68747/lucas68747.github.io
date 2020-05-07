@@ -65,7 +65,7 @@ Nos debería de quedar algo así...
 
 <html>
 
-<div align="center"><img src="![](https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/relleno2.jpg)" width="80%" height="auto"  alt="relleno2"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/relleno2.jpg" width="80%" height="auto"  alt="relleno2"></div>
 
 </html>
 
@@ -77,6 +77,6 @@ Nos debería de quedar algo así...
 
 <html>
 
-<div align="center"><img src="![](https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/relleno3.jpg)" width="80%" height="auto"  alt="relleno3"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/relleno3.jpg" width="80%" height="auto"  alt="relleno3"></div>
 
 </html>
