@@ -46,3 +46,25 @@ Yo la voy a sacar de la huerta de mis viejos.
 <div align="center"><img src="https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/cebolla2.jpg" width="80%" height="auto"  alt="cebolla"></div>
 
 </html>
+
+<html>
+
+<div align="center"><img src="![](https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/relleno1.jpg)" width="80%" height="auto"  alt="cebolla"></div>
+
+</html>
+
+Debemos añadir luego, el pote de queso crema entero y también opcionalmente podemos ponerle queso rallado a nuestro relleno. Después de esto hay que dejarlo reposar en la heladera por lo menos un día para que la cebolla y el resto de ingredientes se impregne bien. (Podemos añadir más de un pote de queso crema, mientras más cantidad más cremoso el relleno).
+
+Nos debería de quedar algo así...
+
+<html>
+
+<div align="center"><img src="![](https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/relleno2.jpg)" width="80%" height="auto"  alt="cebolla"></div>
+
+</html>
+
+<html>
+
+<div align="center"><img src="![](https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/relleno3.jpg)" width="80%" height="auto"  alt="cebolla"></div>
+
+</html>
