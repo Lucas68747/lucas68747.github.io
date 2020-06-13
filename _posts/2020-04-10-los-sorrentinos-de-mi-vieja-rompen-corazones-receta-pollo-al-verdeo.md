@@ -59,7 +59,7 @@ Yo la voy a sacar de la huerta de mis viejos.
 
 </html>
 
-Debemos añadir luego, el pote de queso crema entero y también opcionalmente podemos ponerle queso rallado a nuestro relleno. Después de esto hay que dejarlo reposar en la heladera por lo menos un día para que la cebolla y el resto de ingredientes se impregne bien. (Podemos añadir más de un pote de queso crema, mientras más cantidad más cremoso el relleno).
+Debemos añadir luego, el pote de queso crema entero y también opcionalmente podemos ponerle queso rallado a nuestro relleno. Después de esto hay que dejarlo reposar en la heladera por lo menos un día para que la cebolla y el resto de ingredientes se impregnen bien. (Podemos añadir más de un pote de queso crema, mientras más cantidad más cremoso el relleno).
 
 Nos debería de quedar algo así...
 
