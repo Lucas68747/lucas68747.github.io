@@ -11,6 +11,6 @@ background: "/img/posts/cabecera-noche-oscura.jpg"
 
 <html>
 
-<div align="center"><img src="(https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/mapa.jpg)" width="80%" height="auto"  alt="relleno"></div>
+<div align="center"><img src="(![](https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/mapa.jpg))" width="80%" height="auto"  alt="relleno"></div>
 
 </html>
