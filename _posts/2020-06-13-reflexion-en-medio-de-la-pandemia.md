@@ -25,6 +25,8 @@ background: "/img/posts/cabecera-noche-oscura.jpg"
 
 **Por otra parte aplaudo la habilitación de ciertas actividades deportivas (siempre con sus respectivos protocolos). A mi me gusta correr y ya estaba bastante harto de estar encerrado teniendo en frente de casa un hermoso lugar para esta actividad.**
 
+<html>
+  
 <div align="center"><img src="https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/correr.jpg" width="80%" height="auto"  alt="relleno"></div>
 
 </html>
