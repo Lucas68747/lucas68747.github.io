@@ -9,13 +9,15 @@ Después de haber leído las 441 páginas de esta obra maestra del maestro King 
 
 <html>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/sam_0073.JPG"  width="80%" height="auto"  alt="cementerio-de-animales"></div>
+<div align="center"><img src="[https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/sam_0073.JPG](https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/sam_0073.JPG "https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/sam_0073.JPG")" width="80%" height="auto"  alt="cementerio-de-animales"></div>
 
 </html>
 
+<br>
+
 <html>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/sam_0074.JPG" width="80%" height="auto"  alt="cementerio-de-animales"></div>
+<div align="center"><img src="[https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/sam_0074.JPG](https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/sam_0074.JPG "https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/sam_0074.JPG")" width="80%" height="auto"  alt="cementerio-de-animales"></div>
 
 </html>
 
