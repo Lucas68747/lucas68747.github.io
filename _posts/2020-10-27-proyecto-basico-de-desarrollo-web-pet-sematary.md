@@ -2,14 +2,20 @@
 layout: post
 title: Proyecto básico de desarrollo web (Pet Sematary)
 date: 2020-10-27 09:24:00 -0300
-background: "/img/posts/sam_0073.JPG"
+background: "/img/posts/church.jpg"
 
 ---
 Después de haber leído las 441 páginas de esta obra maestra del maestro King (Año 1983) y por supuesto de haber disfrutado de su adaptación al cine (Año 1989) .
 
 <html>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/sam_0073.JPG" width="80%" height="auto"  alt="cebolla"></div>
+<div align="center"><img src="[https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/sam_0073.JPG](https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/sam_0073.JPG "https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/sam_0073.JPG")" width="80%" height="auto"  alt="cementerio-de-animales"></div>
+
+</html>
+
+<html>
+
+<div align="center"><img src="[https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/sam_0074.JPG](https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/sam_0074.JPG "https://raw.githubusercontent.com/Lucas68747/lucas68747.github.io/master/img/posts/sam_0074.JPG")" width="80%" height="auto"  alt="cementerio-de-animales"></div>
 
 </html>
 
