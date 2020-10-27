@@ -16,3 +16,5 @@ fields:
   config:
     maxSize: 250
   label: background
+pages:
+- _posts/proyecto-basico-de-desarrollo-web-pet-sematary.md
